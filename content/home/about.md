@@ -17,9 +17,9 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Operations Research and Robotics"
+  institution = "UC Berkeley"
+  year = 2017-2021
 
 [[education.courses]]
   course = "MEng in Artificial Intelligence"
@@ -27,9 +27,9 @@ weight = 5
   year = 2009
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BA in Mathematics and Computer Science"
+  institution = "Pomona College"
+  year = 2015
  
 +++
 
