@@ -10,21 +10,17 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Optimization",
+    "Machine Learning",
+    "Scalable Analysis Software"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in Operations Research and Robotics"
   institution = "UC Berkeley"
-  year = 2017
+  year = 2017-2022
 
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
 
 [[education.courses]]
   course = "BA in Mathematics and Computer Science"
@@ -35,6 +31,4 @@ weight = 5
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am a PhD student working in automation science with [Ken Goldberg](http://goldberg.berkeley.edu/) in the [Berkeley AUTOLab](http://autolab.berkeley.edu/) Lab. My research interests include distributed cloud robotics, optimization in statistical learning, and experimental design in deep machine learning model hyperparameter search.
