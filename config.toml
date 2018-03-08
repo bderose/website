@@ -221,9 +221,9 @@ defaultContentLanguageInSubdir = false
     link = "//twitter.com/billderose"
 
   [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    icon = "stackoverlow"
+    icon_pack = "fa"
+    link = "https://stackoverflow.com/users/1374086/bill-derose"
 
   [[params.social]]
     icon = "github"
