@@ -19,7 +19,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Operations Research and Robotics"
   institution = "UC Berkeley"
-  year = 2017-2022
+  year = "2017-2022"
 
 
 [[education.courses]]
