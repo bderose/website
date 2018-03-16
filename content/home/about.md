@@ -31,7 +31,7 @@ weight = 5
 
 # Biography
 
-I am a PhD student working in automation science with [Ken Goldberg](http://goldberg.berkeley.edu/) in the [Berkeley AUTOLab](http://autolab.berkeley.edu/) Lab. My research interests include distributed cloud robotics, optimization for statistical learning, and experimental design in machine learning model hyperparameter search.
+I am a PhD student working in automation science with [Ken Goldberg](http://goldberg.berkeley.edu/) in the [Berkeley AUTOLab](http://autolab.berkeley.edu/). My research interests include distributed cloud robotics, optimization for statistical learning, and experimental design in machine learning model hyperparameter search.
 
 Prior to my time in Berkeley, I studied [math](https://www.pomona.edu/academics/departments/mathematics)
 and [cs](https://www.pomona.edu/academics/departments/computer-science) at Pomona College and worked
