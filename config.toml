@@ -216,19 +216,19 @@ defaultContentLanguageInSubdir = false
     link = "mailto:bdr@berkeley.edu"
 
   [[params.social]]
-    icon = "twitter"
+    icon = "linkedin"
     icon_pack = "fa"
-    link = "//twitter.com/billderose"
+    link = "https://www.linkedin.com/in/billderose/"
 
   [[params.social]]
-    icon = "stackoverlow"
+    icon = "stack-overflow"
     icon_pack = "fa"
     link = "https://stackoverflow.com/users/1374086/bill-derose"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/bderose"
+    link = "https://github.com/bderose"
 
 
 # Navigation Links
