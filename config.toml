@@ -58,7 +58,7 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "UC Berkeley", url = "http://ieor.berkeley.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "https://media.licdn.com/dms/image/C4D03AQH5Y2FpQd6LQw/profile-displayphoto-shrink_200_200/0?e=1526403600&v=alpha&t=O5gfFnTVfkfirPhTsiYEpd2Mn9cGxlVu6BYrKl1TM9A"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "bdr@berkeley.edu"
   telegram = ""
 
