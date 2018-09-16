@@ -17,9 +17,9 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Operations Research and Robotics"
+  course = "MS in Operations Research and Robotics"
   institution = "UC Berkeley"
-  year = "2017-2022"
+  year = "2017-2018"
 
 
 [[education.courses]]
@@ -31,7 +31,7 @@ weight = 5
 
 # Biography
 
-I am a PhD student working in automation science with [Ken Goldberg](http://goldberg.berkeley.edu/) in the [Berkeley AUTOLab](http://autolab.berkeley.edu/). My research interests include distributed cloud robotics, optimization for statistical learning, and experimental design in machine learning model hyperparameter search.
+I am a former PhD student of [Ken Goldberg](http://goldberg.berkeley.edu/) in the [Berkeley AUTOLab](http://autolab.berkeley.edu/). My research spanned topics including distributed cloud robotics, optimization for statistical learning, and optimal design in machine learning model hyperparameter search experiments.
 
 Prior to my time in Berkeley, I studied [math](https://www.pomona.edu/academics/departments/mathematics)
 and [cs](https://www.pomona.edu/academics/departments/computer-science) at Pomona College and worked
