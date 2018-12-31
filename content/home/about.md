@@ -10,9 +10,10 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
+    "Functional Programming",
     "Optimization",
     "Machine Learning",
-    "Scalable Analysis Software"
+    "Scalable Analytics Software"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -35,4 +36,6 @@ I am a former PhD student of [Ken Goldberg](http://goldberg.berkeley.edu/) in th
 
 Prior to my time in Berkeley, I studied [math](https://www.pomona.edu/academics/departments/mathematics)
 and [cs](https://www.pomona.edu/academics/departments/computer-science) at Pomona College and worked
-on the Analysis and [Experimentation](http://exp-platform.com/) team at Microsoft.
+on the [Analysis and Experimentation](http://exp-platform.com/) team at Microsoft.
+
+I am currently a Staff Engineer building machine learning algorithms which power PayPal's retail personalization and recommender systems for merchants.
