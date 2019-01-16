@@ -40,4 +40,4 @@ Prior to my time in Berkeley, I studied [math](https://www.pomona.edu/academics/
 and [cs](https://www.pomona.edu/academics/departments/computer-science) at Pomona College and worked
 on the [Analysis and Experimentation](http://exp-platform.com/) team at Microsoft.
 
-I am currently a Staff Engineer building machine learning algorithms which power PayPal's retail personalization and recommender systems for merchants.
+I am currently designing machine learning algorithms to power PayPal's [Merchant Marketing Solutions](https://www.paypal.com/us/webapps/mpp/paypal-marketing-solutions).
