@@ -34,7 +34,7 @@ weight = 5
 
 # Biography
 
-I am a former PhD student of [Ken Goldberg](http://goldberg.berkeley.edu/) in UC Berkeley's [AUTOLab](http://autolab.berkeley.edu/) and [BAIR Lab](https://bair.berkeley.edu/). My research spanned topics including distributed cloud robotics, optimization for statistical learning, and optimal design in machine learning model hyperparameter search experiments.
+I am a former PhD student of [Ken Goldberg](http://goldberg.berkeley.edu/) in UC Berkeley's [AUTOLab](http://autolab.berkeley.edu/) and [BAIR Lab](https://bair.berkeley.edu/). My research spanned topics including distributed cloud robotics and optimization for statistical learning.
 
 Prior to Berkeley, I studied [math](https://www.pomona.edu/academics/departments/mathematics)
 and [cs](https://www.pomona.edu/academics/departments/computer-science) at Pomona College and worked
