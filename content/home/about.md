@@ -34,10 +34,10 @@ weight = 5
 
 # Biography
 
-I am a former PhD student of [Ken Goldberg](http://goldberg.berkeley.edu/) in the [Berkeley AUTOLab](http://autolab.berkeley.edu/) and [BAIR Lab](https://bair.berkeley.edu/). My research spanned topics including distributed cloud robotics, optimization for statistical learning, and optimal design in machine learning model hyperparameter search experiments.
+Former PhD student of [Ken Goldberg](http://goldberg.berkeley.edu/) in the [Berkeley AUTOLab](http://autolab.berkeley.edu/) and [BAIR Lab](https://bair.berkeley.edu/). My research spanned topics including distributed cloud robotics, optimization for statistical learning, and optimal design in machine learning model hyperparameter search experiments.
 
-Prior to my time in Berkeley, I studied [math](https://www.pomona.edu/academics/departments/mathematics)
+Prior to Berkeley, I studied [math](https://www.pomona.edu/academics/departments/mathematics)
 and [cs](https://www.pomona.edu/academics/departments/computer-science) at Pomona College and worked
-on the [Analysis and Experimentation](http://exp-platform.com/) team at Microsoft.
+on the [Analysis and Experimentation](http://exp-platform.com/) team at Microsoft as a software developer.
 
 I am currently designing machine learning algorithms to power PayPal's [Merchant Marketing Solutions](https://www.paypal.com/us/webapps/mpp/paypal-marketing-solutions).
