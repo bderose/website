@@ -18,15 +18,15 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "MS in Operations Research, concentration: Robotics"
-  concentration = "Robotics"
+  course = "MS in Operations Research"
+  subtitle = "Robotics"
   institution = "UC Berkeley"
-  year = "2017-2018"
+  year = "2018"
 
 
 [[education.courses]]
   course = "BA in Mathematics"
-  minor = "Computer Science"
+  subtitle = "Computer Science"
   institution = "Pomona College"
   year = 2015
  
